@@ -20,7 +20,8 @@ Um bei Screenshots der Zeilenzahl eine andere Farbe zu geben: "Settings::Editor-
 
 Ruby:
 
-ToDo
+Öffne das File mit Vim und mache mit Shutter einen Screenshot deines Codebeispiels.
+Für sichtbares Highlighting und Zeilennummern empfehlen wir: ```git clone https://github.com/psunix/dot-vim.git ~/.vim```
 
 Ansonsten kann man auch den Code direkt ins MD schreiben. Hier muss man aber die Zeilenzahl selbst hinzufügen und kann die grösse nicht verändern:
 ```
